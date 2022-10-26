@@ -9,6 +9,7 @@ import (
 	"gorm.io/gorm"
 )
 
+// grom db
 var (
 	host     = "kesavan.db.elephantsql.com"
 	user     = "cmjnftwz"
